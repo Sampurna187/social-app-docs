@@ -1,0 +1,21 @@
+{
+  "name": "socialapp",
+  "version": "1.0.0",
+  "description": "a basic social media app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "api"
+  ],
+  "author": "Sampurna Ghosh",
+  "license": "ISC",
+  "dependencies": {
+    "date-format": "^4.0.14",
+    "express": "^4.18.2",
+    "swagger-ui-express": "^5.0.0",
+    "yamljs": "^0.3.0"
+  }
+}
